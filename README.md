@@ -1,0 +1,2 @@
+# Machine-learning-as-fitnesss-function-for-optimization
+This code generates a random dataset of temperatures, pressures, RH, etc., and uses it to train an ML algorithm in Jupyter Python. You can then use this trained ML as a fitness function for a multiobjective genetic algorithm of occupants' comfort and energy consumption. In this code, the ideal solution was when energy consumption was 14 kWh and comfort was around +1. You can change the random dataset with an import excel file or import from the MSSQL database.
